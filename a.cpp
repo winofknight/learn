@@ -6,4 +6,5 @@ int main(){
 	std::cout<<"678"<<std::endl;
 	std::cout<<"910"<<std::endl;
 	std::cout<<"11"<<std::endl;
+	std::cout<<"12"<<std::endl;
 }
