@@ -8,4 +8,5 @@ int main(){
 	std::cout<<"11"<<std::endl;
 	std::cout<<"12"<<std::endl;
 	std::cout<<"slow->quick"<<std::endl;
+	std::cout<<"slow->slow"<<std::endl;
 }
