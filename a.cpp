@@ -11,4 +11,5 @@ int main(){
 	std::cout<<"slow->quick"<<std::endl;
 	std::cout<<"slow->quick->slow"<<std::endl;
 	std::cout<<"1->2->3->4->5->6"<<std::endl;
+	std::cout<<"1->2->3->4->5->6"<<std::endl;
 }
