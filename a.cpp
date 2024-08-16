@@ -9,5 +9,5 @@ int main(){
 	std::cout<<"12"<<std::endl;
 	std::cout<<"slow->quick"<<std::endl;
 	std::cout<<"slow->quick->slow"<<std::endl;
-	std::cout<<"1->2->3"<<std::endl;
+	std::cout<<"1->2->3->4"<<std::endl;
 }
