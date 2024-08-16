@@ -7,5 +7,5 @@ int main(){
 	std::cout<<"910"<<std::endl;
 	std::cout<<"11"<<std::endl;
 	std::cout<<"12"<<std::endl;
-	std::cout<<"slow"<<std::endl;
+	std::cout<<"slow->quick"<<std::endl;
 }
